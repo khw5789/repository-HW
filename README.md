@@ -8,6 +8,6 @@
 *  Local에서 Commit
 *  Remote로 Push  
  
-**remote를 연습하기 위해 만들어졌습니다.**
+**branch를 연습하기 위해 만들어졌습니다.**
 
-000228 HYUNMIN
+2019372011 김현민 KIM HYUNMIN
